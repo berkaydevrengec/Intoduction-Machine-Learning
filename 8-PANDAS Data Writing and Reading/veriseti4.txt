@@ -1,0 +1,6 @@
+Name,Puan,Gender
+Allan,80,NA
+John,,John
+James,70,n.a
+,90,F
+Ellen,-5,F

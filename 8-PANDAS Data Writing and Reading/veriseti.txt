@@ -1,0 +1,6 @@
+name	score	gender
+John	80	M
+Pearl	85	F
+James	70	M
+Nick	90	M
+Love	75	F

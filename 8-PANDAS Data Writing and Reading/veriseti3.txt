@@ -1,0 +1,7 @@
+Course,Name,Midterm1,Midterm2
+Math,John,80,85
+Math,Micheal,90,70
+Math,James,70,95
+Linear,Jonh,65,90
+Linear,Micheal,85,80
+Linear,James,55,70
